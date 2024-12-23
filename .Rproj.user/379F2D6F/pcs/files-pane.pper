@@ -1,0 +1,13 @@
+{
+    "sortOrder": [
+        {
+            "columnIndex": 2,
+            "ascending": true
+        },
+        {
+            "columnIndex": 4,
+            "ascending": false
+        }
+    ],
+    "path": "/media/alfredo/1TB/Storage/INVESTIGACIO/RProjects/Geo_Perf/Utility_scripts"
+}
