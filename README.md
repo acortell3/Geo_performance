@@ -1,9 +1,6 @@
----
-title: "Readme"
-output: html_document
----
 
-This is the readme file for the article "Geometric microliths as cultural markers: shape/size variation and projectile performance", by A. Cortell-Nicolau, A. Key and A. Palomo.
+
+This is the **README** file for the article *"Geometric microliths as cultural markers: shape/size variation and projectile performance"*, by A. Cortell-Nicolau, A. Key and A. Palomo.
 
 This folder contains the following subfolders: Data, Figures, Figures_supplementary, Outlines, Results, Scripts, Shapes and Utility_scripts. For a quick check, ideally, only loading and running the script `Reproducible_script.R` within the folder Scripts should work. If you run it with the current number of simulations (300,000) it can take long, but you can try with less simulations (change lines 21-25 in that script) to whatver suits you better for a first check. In detail, each folder contains:
 
